@@ -1,4 +1,11 @@
-### Bem vindo ao meu GitHub! Eu sou o Rodrigo Mattos.
+### Welcome to my GitHub! I am Rodrigo Mattos.
+
+I'm a React Native Junior Developer passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, NodeJS, ReactJS, and React Native.
+
+- 🔭 I'm currently studying TypeScript.
+- 🌱 I have experience with Node.js, ReactJS, and React Native.
+- See my LinkedIn: [Rodrigo Mattos](https://www.linkedin.com/in/mattosrodrigo/)
+
 
 <div>
   <a href="https://github.com/mattosrodrigo">
@@ -18,4 +25,6 @@
   <a href = "mailto:rodrigoleonardomattos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mattosrodrigo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+   ![Snake animation](https://github.com/mattosrodrigo/mattosrodrigo/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
