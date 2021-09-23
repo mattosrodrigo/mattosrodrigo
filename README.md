@@ -1,6 +1,6 @@
 ### Welcome to my GitHub! I am Rodrigo Mattos.
 
-I'm a React Native Junior Developer passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, NodeJS, ReactJS, and React Native.
+I'm a ReactJS Junior Developer passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, NodeJS, ReactJS, and React Native.
 
 - 🔭 I'm currently studying TypeScript.
 - 🌱 I have experience with Node.js, ReactJS, and React Native.
