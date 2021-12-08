@@ -1,9 +1,9 @@
 ### Welcome to my GitHub! I am Rodrigo Mattos.
 
-I'm a ReactJS Junior Developer passionate about the best web and mobile development technologies. I have experience with projects using JavaScript, NodeJS, ReactJS, and React Native.
+I'm a Frontend Developer passionate about the best web development technologies.
 
 - 🔭 I'm currently studying TypeScript.
-- 🌱 I have experience with Node.js, ReactJS, and React Native.
+- 🌱 I have experience with ReactJS, Redux, JavaScript, Sass.
 - See my LinkedIn: [Rodrigo Mattos](https://www.linkedin.com/in/mattosrodrigo/)
 
 
@@ -14,9 +14,10 @@ I'm a ReactJS Junior Developer passionate about the best web and mobile developm
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
 
   ##
