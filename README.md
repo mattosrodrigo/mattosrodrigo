@@ -2,13 +2,14 @@
 
 I'm a Frontend Developer passionate about the best web development technologies.
 
-- 💼 Frontend Dev at [Live On](https://liveonbaas.com/)
-- 🔭 I'm currently studying TypeScript.
-- 🌱 I have experience with ReactJS, Redux, JavaScript, Sass.
+- 💼 &nbsp; Frontend Dev at [Live On](https://liveonbaas.com/)
+- 🔭 &nbsp; I'm currently studying TypeScript.
+- 🌱 &nbsp; I have experience with ReactJS, Redux, JavaScript, Sass.
 - See my LinkedIn: [Rodrigo Mattos](https://www.linkedin.com/in/mattosrodrigo/)
 
-### 🖥 Tech Stack
-<div style="display: inline_block"><br>
+
+### 🖥 &nbsp;Tech Stack </pre>
+<div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +19,7 @@ I'm a Frontend Developer passionate about the best web development technologies.
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
 
-### 📩 Where to find me
+### 📩 &nbsp; Where to find me
   
   <div> 
   <a href="https://instagram.com/rodrigomattos__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
