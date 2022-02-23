@@ -2,7 +2,7 @@
 
 I'm a Frontend Developer passionate about the best web development technologies.
 
-- 💼 &nbsp; Frontend Dev at [Live On](https://liveonbaas.com/)
+- 💼 &nbsp; Frontend Dev at [Banco Modal](https://modal.services)
 - 🔭 &nbsp; I'm currently studying TypeScript.
 - 🌱 &nbsp; I have experience with ReactJS, Redux, JavaScript, Sass.
 - See my LinkedIn: [Rodrigo Mattos](https://www.linkedin.com/in/mattosrodrigo/)
