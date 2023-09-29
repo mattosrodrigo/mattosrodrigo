@@ -2,9 +2,7 @@
 
 My name is Rodrigo Mattos, 22, and I'm a brazilian developer.
 
-- 💼 &nbsp; Fullstack Developer at [SAVE1](https://save1.com.br/)
-- See my LinkedIn: [Rodrigo Mattos](https://www.linkedin.com/in/mattosrodrigo/)
-
+I've been working professionally since 2017; currently working as a Fullstack Developer at @ [SAVE1](https://save1.com.br/)
 
 ### 📩 &nbsp; Where to find me
   
